@@ -1,25 +1,15 @@
-# README
+Material Dashboard
+material Dashboard is a open source ruby on rails project with dashboard design
+It is helpful to anyone who wnat to fast integration dashboard in his project, anybody can use this project in his won purpose without any permission. Can change this project name using suitable project name changing gem.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby Version: I use in this project 2.6.0
+Rails Version: 5.2.0
 
-Things you may want to cover:
+if you want to watch how i integration this theme in this project goto my channel or click the video link: coming..
 
-* Ruby version
 
-* System dependencies
+# if you want to hire me  for your ruby on rails application# 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# material_dashboard
+fiverr: https://www.fiverr.com/share/Q8PWP
+upwork: https://www.upwork.com/freelancers/~01ed614902b6257064
+freelancer: https://www.freelancer.com/u/xphabib?w=f
