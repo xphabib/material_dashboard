@@ -8,7 +8,7 @@ It is helpful to anyone who wnat to fast integration dashboard in his project, a
 if you want to watch how i integration this theme in this project goto my channel or click the video link: https://www.youtube.com/watch?v=piuSx5yobv8
 
 
-# if you want to hire me  for your ruby on rails application# 
+# if you want to hire me  for your ruby on rails application
 
 fiverr: https://www.fiverr.com/share/Q8PWP
 upwork: https://www.upwork.com/freelancers/~01ed614902b6257064
