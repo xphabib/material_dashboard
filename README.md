@@ -17,8 +17,8 @@ freelancer: https://www.freelancer.com/u/xphabib?w=f
 ## Developer Profile
 **Mohammad Habibur Rahman
 
-*linkedin: https://www.linkedin.com/in/xphabib/
+*linkedin: https://www.linkedin.com/in/xphabib/*
 
-*stackoverflow: https://stackoverflow.com/users/5555537/mohammad-habibur-rahman
+*stackoverflow: https://stackoverflow.com/users/5555537/mohammad-habibur-rahman*
 
-*email: xphabib@gmail.com
+*email: xphabib@gmail.com*
