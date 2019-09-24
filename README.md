@@ -2,8 +2,8 @@
 material Dashboard is a open source ruby on rails project with dashboard design
 It is helpful to anyone who wnat to fast integration dashboard in his project, anybody can use this project in his won purpose without any permission. Can change this project name using suitable project name changing gem.
 
-# Ruby Version: I use in this project 2.6.0
-# Rails Version: 5.2.0
+## Ruby Version: I use in this project 2.6.0
+## Rails Version: 5.2.0
 
 if you want to watch how i integration this theme in this project goto my channel or click the video link: https://www.youtube.com/watch?v=piuSx5yobv8
 
