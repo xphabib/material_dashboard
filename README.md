@@ -15,7 +15,7 @@ upwork: https://www.upwork.com/freelancers/~01ed614902b6257064
 freelancer: https://www.freelancer.com/u/xphabib?w=f
 
 ## Developer Profile
-**Mohammad Habibur Rahman
+**Mohammad Habibur Rahman**
 
 *linkedin: https://www.linkedin.com/in/xphabib/*
 
