@@ -5,7 +5,7 @@ It is helpful to anyone who wnat to fast integration dashboard in his project, a
 Ruby Version: I use in this project 2.6.0
 Rails Version: 5.2.0
 
-if you want to watch how i integration this theme in this project goto my channel or click the video link: coming..
+if you want to watch how i integration this theme in this project goto my channel or click the video link: https://www.youtube.com/watch?v=piuSx5yobv8
 
 
 # if you want to hire me  for your ruby on rails application# 
