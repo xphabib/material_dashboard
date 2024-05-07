@@ -10,7 +10,7 @@ if you want to watch how i integration this theme in this project goto my channe
 
 # if you want to hire me  for your ruby on rails application
 
-fiverr: https://www.fiverr.com/share/Q8PWP
+fiverr: https://www.fiverr.com/s/5R1aA3
 upwork: https://www.upwork.com/freelancers/~01ed614902b6257064
 freelancer: https://www.freelancer.com/u/xphabib?w=f
 
